@@ -8,3 +8,4 @@ __pycache__
 proj-9.0.0
 *csv
 *tif
+.*#
